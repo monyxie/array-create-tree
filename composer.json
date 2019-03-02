@@ -1,0 +1,15 @@
+{
+  "name": "tony/array-create-tree",
+  "authors": [
+    {
+      "name": "Monyxie",
+      "email": "monyxie@gmail.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "files": [
+      "array_create_tree.php"
+    ]
+  }
+}
